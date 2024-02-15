@@ -9,6 +9,8 @@ link  : https://www.graphusergroup.com/
 
 3. [GRAPH NODE SAMPLING](https://www.graphusergroup.com/graph-travel-3/)
 
+4. [Graph & Node2Vec](https://www.graphusergroup.com/graph-travel-4/)
+
 
 
 
